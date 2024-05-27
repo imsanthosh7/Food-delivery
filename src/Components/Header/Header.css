@@ -1,0 +1,88 @@
+.header {
+    height: 34vw;
+    margin: 50px auto;
+    background: url('/hero.avif') no-repeat;
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    border-radius: 13px;
+
+
+
+}
+
+.header-contents {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 130px;
+    gap: 1rem;
+    animation: fadein 2s;
+
+}
+
+.header-contents h2 {
+    font-weight: 400;
+    color: white;
+    font-size: 56px;
+
+
+}
+
+.header-contents p {
+    color: white;
+    font-size: 1rem;
+}
+
+.header-contents button {
+    border: none;
+    color: #3b0202;
+    font-weight: 500;
+    padding: 10px 20px;
+    background-color: #FFD700;
+    border: none;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.header-contents button:hover {
+    background-color: #f7d61a;
+}
+
+@media screen and (max-width:1024px) {
+
+    .header-contents h2 {
+        font-size: 56px;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:1023px) {
+    .header-contents {
+        margin-top: 90px;
+    }
+    .header-contents h2 {
+        font-size: 33px;
+    }
+}
+
+@media screen and (max-width:680px) {
+    .header-contents {
+        max-width: 80%;
+        margin-top: 60px;
+        gap: 7px;
+    }
+
+    .header-contents h2 {
+        font-size: 16px;
+    }
+
+    .header-contents button {
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+}
+

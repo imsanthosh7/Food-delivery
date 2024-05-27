@@ -18,7 +18,7 @@ a{
 }
 .app{
   width: 80%;
-  margin: auto;
+  margin: 0 auto;
 }
 @keyframes fadein {
   0%{

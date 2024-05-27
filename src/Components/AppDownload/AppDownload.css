@@ -15,7 +15,7 @@
 }
 
 .app-download-platforms img {
-    width: 180px;
+    width: 100px;
     transition: 0.5s;
     cursor: pointer;
 }

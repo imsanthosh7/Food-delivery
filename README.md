@@ -38,6 +38,5 @@ To run this project locally, follow these steps:
 `npm start`
 
 Your application should now be running on http://localhost:3000.
-### 📸-Screenshot
-![Screenshot (119)](https://github.com/imsanthosh7/Food-delivery/assets/154437536/360c118b-b308-4a17-b25f-130221650fc1)
+
 

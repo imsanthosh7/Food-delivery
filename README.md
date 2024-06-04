@@ -41,9 +41,25 @@ Your application should now be running on http://localhost:3000.
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
-<h3 align='center'>Home Page 🏡</h3>
+<h3 align='center'>Home Page</h3>
 
 <div align='center'>
 <img src='https://github.com/imsanthosh7/Food-delivery/assets/154437536/f36200f0-d198-4b36-be0d-07e779a7e138'/>
-
+</div>
+<h3 align='center'>Explore page</h3>
+<div align="center">
+    <img src="https://github.com/imsanthosh7/Food-delivery/assets/154437536/0542cf65-9f0d-4009-9d43-077803128217" >
+</div>
+<h3 align='center'>Cart page</h3>
+<div align="center">
+    <img src="https://github.com/imsanthosh7/Food-delivery/assets/154437536/be26c66f-db2d-4bc8-8b4e-3ff4aab51cf9" >
+</div>
+<h3 align='center'>Delivery information page</h3>
+<div align="center">
+    <img src="https://github.com/imsanthosh7/Food-delivery/assets/154437536/e832d856-4763-436e-865c-811d3240abe2" >
+</div>
+<h3 align='center'>Singup page</h3>
+<div align="center">
+    <img src="https://github.com/imsanthosh7/Food-delivery/assets/154437536/5192cf15-cb85-4761-b54a-4cff9d5fcd75" >
+    <img src="https://github.com/imsanthosh7/Food-delivery/assets/154437536/aaa57e11-7113-49f2-87f9-3377b64e4ff8" >
 </div>

@@ -39,4 +39,11 @@ To run this project locally, follow these steps:
 
 Your application should now be running on http://localhost:3000.
 
+<h2>Screenshots of the Project 📸</h2>
+<br>
+<h3 align='center'>Home Page 🏡</h3>
 
+<div align='center'>
+<img src='https://github.com/imsanthosh7/Food-delivery/assets/154437536/f36200f0-d198-4b36-be0d-07e779a7e138'/>
+
+</div>

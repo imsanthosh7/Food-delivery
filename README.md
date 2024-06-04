@@ -1,4 +1,4 @@
-<div align='center'><img style="width:17%" src='https://github.com/imsanthosh7/Food-delivery/assets/154437536/6cb9e63c-b0b2-4c9e-baaf-3555dfc038d6'/></div>
+<div align='center'><img style="width:20%" src='https://github.com/imsanthosh7/Food-delivery/assets/154437536/6cb9e63c-b0b2-4c9e-baaf-3555dfc038d6'/></div>
 
 # Food Delivery Website🍽️
 **Live Demo:** https://food-delivery-site.vercel.app/ <br>

@@ -58,7 +58,7 @@ Your application should now be running on http://localhost:3000.
 <div align="center">
     <img src="https://github.com/imsanthosh7/Food-delivery/assets/154437536/e832d856-4763-436e-865c-811d3240abe2" >
 </div>
-<h3 align='center'>Singup page</h3>
+<h3 align='center'>SingUp page</h3>
 <div align="center">
     <img src="https://github.com/imsanthosh7/Food-delivery/assets/154437536/5192cf15-cb85-4761-b54a-4cff9d5fcd75" >
     <img src="https://github.com/imsanthosh7/Food-delivery/assets/154437536/aaa57e11-7113-49f2-87f9-3377b64e4ff8" >
